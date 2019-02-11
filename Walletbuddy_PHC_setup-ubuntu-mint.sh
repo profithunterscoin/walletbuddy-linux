@@ -1,4 +1,4 @@
-echo "Wallet Buddy - PHC Wallet Setup (Ubuntu/Mint/Debian Linux)"
+echo "Wallet Buddy - PHC Wallet Setup (Ubuntu/Mint Linux)"
 echo "Build: Feb 11 2019"
 
 read -p "Install Dependencies? [Yy/Nn] " answer
